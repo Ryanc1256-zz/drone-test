@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "name": "tester",
+  "author": "ryanc",
+  "devDependencies": {
+    "bluefish": "^4.0.0-0"
+  },
+  "dependencies": {
+    "bluefish": "^4.0.0-0"
+  },
+  "scripts": {
+    "test": "node index.js"
+  }
+}
